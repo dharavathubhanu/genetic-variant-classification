@@ -6,8 +6,7 @@ This project focuses on building a machine learning pipeline to classify **genet
  Project Structure
 
     ├── CodeTheGenome_MLDL.ipynb        
-    ├── data/ (clinvar_conflicting.csv)                        
-    ├── Saved models/(catboost_conflict_final.cbm)                                              
+    ├── data/ (clinvar_conflicting.csv)                                                                    
     ├── README.md                     
 
  Features
